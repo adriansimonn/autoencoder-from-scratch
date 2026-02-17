@@ -1,6 +1,6 @@
 # Autoencoder From Scratch
 
-A fully-connected autoencoder implemented in pure C++ with no ML frameworks. All neural network primitives — matrix math, layers, activations, backpropagation, and the Adam optimizer — are built from scratch. The only external dependency is [stb](https://github.com/nothings/stb) (header-only) for image I/O.
+A fully-connected autoencoder implemented in pure C++ with no ML frameworks. All neural network primitives (matrix math, layers, activations, backpropagation, and the Adam optimizer) are built from scratch. The only external dependency is [stb](https://github.com/nothings/stb) (header-only) for image I/O.
 
 Given an image, the autoencoder encodes it into a 64-dimensional latent space, decodes it back, and saves the reconstruction.
 
@@ -73,7 +73,7 @@ Runs unit tests for tensor math, dense layers, activations, and network converge
 
 ```
 src/
-  math/     Tensor class — matrix ops, serialization
+  math/     Tensor class: matrix ops, serialization
   nn/       Dense, ReLU, Sigmoid layers, MSE loss, Network container
   optim/    Adam optimizer
   io/       Image loading/saving (stb), model serialization
