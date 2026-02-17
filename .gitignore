@@ -1,0 +1,4 @@
+.claude
+autoencoder_plan.md
+build/
+*.bin

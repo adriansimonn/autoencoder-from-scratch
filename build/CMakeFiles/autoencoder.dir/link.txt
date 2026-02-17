@@ -1,2 +1,0 @@
-/usr/bin/ar qc libautoencoder.a CMakeFiles/autoencoder.dir/src/models/autoencoder.cpp.o
-/usr/bin/ranlib libautoencoder.a

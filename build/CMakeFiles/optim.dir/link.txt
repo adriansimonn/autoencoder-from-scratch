@@ -1,2 +1,0 @@
-/usr/bin/ar qc liboptim.a CMakeFiles/optim.dir/src/optim/adam.cpp.o
-/usr/bin/ranlib liboptim.a

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libnn.a CMakeFiles/nn.dir/src/nn/dense.cpp.o CMakeFiles/nn.dir/src/nn/relu.cpp.o CMakeFiles/nn.dir/src/nn/sigmoid.cpp.o CMakeFiles/nn.dir/src/nn/mse_loss.cpp.o CMakeFiles/nn.dir/src/nn/network.cpp.o
-/usr/bin/ranlib libnn.a
