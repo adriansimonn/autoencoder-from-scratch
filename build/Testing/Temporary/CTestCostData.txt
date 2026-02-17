@@ -1,0 +1,5 @@
+test_tensor 4 0.0995688
+test_dense 4 0.0639239
+test_activations 4 0.0918711
+test_network 2 0.115087
+---

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_network.dir/test/test_network.cpp.o -o test_network  libnn.a liboptim.a libio.a libnn.a libtensor.a
